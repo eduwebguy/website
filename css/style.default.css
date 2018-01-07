@@ -109,6 +109,17 @@ UNIVERSAL SECTION STYLES
 =====================
 
 */
+
+.hp-title {
+  font-family: "Roboto", sans-serif
+  color: #fff;
+}
+
+.title-large {
+  font-size: 4.375rem;
+  line-height: 4.375rem;
+}
+
 .section {
   position: relative;
   padding-top: 60px;
